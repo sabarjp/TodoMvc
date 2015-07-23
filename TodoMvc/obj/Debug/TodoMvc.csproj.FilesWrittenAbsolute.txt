@@ -1,0 +1,16 @@
+/Users/work/Projects/TodoMvc/TodoMvc/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/work/Projects/TodoMvc/TodoMvc/bin/TodoMvc.dll.mdb
+/Users/work/Projects/TodoMvc/TodoMvc/bin/TodoMvc.dll
+/Users/work/Projects/TodoMvc/TodoMvc/obj/Debug/TodoMvc.dll
+/Users/work/Projects/TodoMvc/TodoMvc/obj/Debug/TodoMvc.dll.mdb
+/Users/work/Projects/TodoMvc/TodoMvc/bin/Microsoft.Web.Infrastructure.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.Razor.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.Helpers.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.WebPages.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.WebPages.Deployment.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.WebPages.Razor.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/System.Web.Mvc.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/EntityFramework.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/EntityFramework.SqlServer.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/Mono.Security.dll
+/Users/work/Projects/TodoMvc/TodoMvc/bin/Npgsql.dll

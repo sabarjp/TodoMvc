@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="TodoMvc/TodoMvc.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoMvc/Web.config">
+    <Files>
+      <File FileName="TodoMvc/Models/Student.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/Models/Enrollment.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/Models/Course.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/DAL/SchoolContext.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/DAL/SchoolInitializer.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/Web.config" Line="25" Column="15" />
+      <File FileName="TodoMvc/Controllers/StudentController.cs" Line="1" Column="1" />
+      <File FileName="TodoMvc/Views/Student/Index.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
